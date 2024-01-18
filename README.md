@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samkhan07
-- 👀 I’m interested in Coding and music..
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding and music.
+- 🌱 I’m currently learning React.js, Node.js, MongoDB, Express.js, Java, SQL, etc.
 - 📫 How to reach me @sam93sameerkhan@gmail.com
 
 <!---
